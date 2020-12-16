@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362505237206",
+    "project_id": "luka-nadiradze",
+    "storage_bucket": "luka-nadiradze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362505237206:android:858a238ba63dca55588f77",
+        "android_client_info": {
+          "package_name": "com.example.email"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362505237206-2fn7mm0njp66ihonijl1v06n6iddbd7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcVzP0zCGJTusBZFbL0AZlLCWD99EWAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362505237206-2fn7mm0njp66ihonijl1v06n6iddbd7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
